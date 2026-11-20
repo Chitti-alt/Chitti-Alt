@@ -1,16 +1,22 @@
-                                          ## Hi there 👋, I am Chitharth J
+<div align="center">
 
-              # 4th year InterDisciplinary Dual Degree in Computational engineering student @ IIT Madras
-Exploring and building systems with real use, with a mix of Machine learning, Mathematics, Mechanics and other systems
+# Hi there 👋, I'm Chitharth J
 
-Technical Knowledge
+### Computational Engineering & Aerospace Dual Degree @ IIT Madras
+
+Exploring and building intelligent,high performance systems with real use, with a mix of Machine learning, Mathematics, Mechanics and other system
+
+<br>
+
+
+### ⚙️ Technical Arsenal
 
 **Languages and Frameworks**
 -Python,C++,MATLAB,Bash script
 -Numpy,Scipy,Pytorch,Matplotlib
 -Infra-Docker
 
-Seeking to learn
+**Seeking to learn**
 -Deep Learning, Computer Vision
 -Mathematical Modelling of systems, Finite element analysis
 
