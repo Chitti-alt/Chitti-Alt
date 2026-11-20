@@ -10,16 +10,20 @@ Exploring and building intelligent,high performance systems with real use, with 
 </div>
 ---
 
-### ⚙️ Technical Arsenal
+### ⚙️ Technical Arsenal & Core Domains
 
-**Languages and Frameworks**
-* **Languages-**Python,C++,MATLAB,Bash script
-* **Frameworks:**Numpy,Scipy,Pytorch,Matplotlib
-* **Infra:**Docker
+**Languages & Frameworks:**
+* **Languages:** Python, C++, MATLAB, SQL, Bash
+* **AI & Vision:** PyTorch, OpenCV, torchvision, YOLOv8, NumPy, SciPy, Matplotlib
+* **Infra & Tools:** Docker, Git, Linux, LaTeX
 
-**Seeking to learn**
-*Deep Learning, Computer Vision
-*Mathematical Modelling of systems, Finite element analysis
+**Engineering & Research Domains:**
+* **Autonomous UAV Systems:** Aerial Photogrammetry, Path Planning (RRT), Feature Matching, Guidance & Navigation.
+* **Computer Vision & AI:** Object Detection, Local Multimodal RAG Pipelines, NLP Categorization.
+* **Computational Modeling:** Finite Element Analysis (FEA), Numerical Differentiation, Computational Fluid Dynamics (CFD).
+* **Quantitative Systems:** Statistical Arbitrage, Cointegrated Pairs Trading, Algorithmic Backtesting.
+
+
 
 ---
 ### 📫 Connect with me
