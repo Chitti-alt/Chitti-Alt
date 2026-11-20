@@ -7,20 +7,21 @@
 Exploring and building intelligent,high performance systems with real use, with a mix of Machine learning, Mathematics, Mechanics and other system
 
 <br>
-
+</div>
+---
 
 ### ⚙️ Technical Arsenal
 
 **Languages and Frameworks**
--Python,C++,MATLAB,Bash script
--Numpy,Scipy,Pytorch,Matplotlib
--Infra-Docker
+* **Languages-**Python,C++,MATLAB,Bash script
+* **Frameworks:**Numpy,Scipy,Pytorch,Matplotlib
+* **Infra:**Docker
 
 **Seeking to learn**
--Deep Learning, Computer Vision
--Mathematical Modelling of systems, Finite element analysis
+*Deep Learning, Computer Vision
+*Mathematical Modelling of systems, Finite element analysis
 
-
+---
 ### 📫 Connect with me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ae23b044@smail.iitm.ac.in)
