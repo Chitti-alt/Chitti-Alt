@@ -6,9 +6,9 @@
 
 Exploring and building intelligent,high performance systems with real use, with a mix of Machine learning, Mathematics, Mechanics and other system
 
-
-<br>
 ![Profile Views](https://komarev.com/ghpvc/?username=Chitti-Alt&label=Profile%20views&color=0e75b6&style=for-the-badge)
+<br>
+
 </div>
 
 
