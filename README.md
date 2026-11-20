@@ -1,14 +1,15 @@
 <div align="center">
 
-# Hi there 👋, I'm Chitharth J
+# Hi there , I'm Chitharth J
 
 ### Computational Engineering & Aerospace Dual Degree @ IIT Madras
 
 Exploring and building intelligent,high performance systems with real use, with a mix of Machine learning, Mathematics, Mechanics and other system
-
+![Profile Views](https://komarev.com/ghpvc/?username=Chitti-Alt&label=Profile%20views&color=0e75b6&style=for-the-badge)
+![Visitor Count](https://count.getloli.com/get/@Chitti-Alt?theme=rule34)
 <br>
 </div>
----
+
 
 ### ⚙️ Technical Arsenal & Core Domains
 
